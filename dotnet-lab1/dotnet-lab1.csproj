@@ -9,4 +9,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="FastReport.DataVisualization" Version="2025.2.11" />
+  </ItemGroup>
+
 </Project>
